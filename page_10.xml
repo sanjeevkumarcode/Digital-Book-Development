@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<main>
+  <PageData>
+	<MainHeading><![CDATA[]]></MainHeading>
+    <SubHeading><![CDATA[]]></SubHeading>
+    <PageText>
+      <pText><![CDATA[<b>Node Mobility:</b><br>Node mobility related issues are the most notable difference between FANET and the other ad hoc networks. MANET node movement is relatively slow when it is compared to VANET. In FANET, the node’s mobility degree is much higher than in the VANET and MANET. UAV has a speed of 30–460 km/h, and this situation results in several challenging communication design problems.]]></pText></PageText>
+    <PageText>
+    	<pText><![CDATA[<b>Mobility Model:</b><br>While MANET nodes move on a certain terrain, VANET nodes  move on the highways, and FANET nodes fly in the sky. MANETs generally implement the random waypoint mobility model, in which the direction and the speed of the nodes are chosen randomly. VANET nodes are restricted to move on highways or roads. Therefore, VANET mobility models are highly predictable. In some multi-UAV applications, global path plans are preferred. In this case, UAVs move on a predetermined path, and the mobility model is regular. In autonomous multi-UAV systems, the flight plan is not predetermined. Even if a multi-UAV system uses predefined flight plans, because of the environmental changes or mission updates, the flight plan may be recalculated. In addition to the flight plan changes, the fast and sharp UAV movements and different UAV formations directly affect the mobility model of multi-UAV systems. In order to address this issue, FANET mobility models are proposed. In Semi-Random Circular Movement (SRCM) mobility model, the approximate node distribution function is derived within a two dimensional disk region. There are two new mobility models proposed for multi-UAV systems. In random UAV movement model, UAVs move independently. Each UAV decides on its movement direction, according to a predefined Markov process. In the second model, the UAVs maintain a pheromone map, and the pheromones guide their movements. Each UAV marks the areas that it scans on the map, and shares the pheromone map with broadcasting. In order to maximize the coverage, UAVs prefer the movement through the areas with low pheromone smell. It was shown that the use of a typical MANET mobility model may result in undesirable path plans for cooperative UAV applications. It was also observed that the random model is remarkably simple, but it leads to ordinary results. However, the pheromone based model has very reliable scanning properties.]]></pText></PageText>
+      
+       <PageText>
+    	<pText><![CDATA[<b>Node Density:</b><br>Node density can be defined as the average number of nodes in a unit area. FANET nodes are generally scattered in the sky and the distance between UAVs can be several kilometers even for small multi-UAV systems. As a result of this, FANET node density is much lower than in the MANET and VANET.]]></pText></PageText>
+       
+        <PageText>
+    	<pText><![CDATA[<b>Topology Change:</b><br>Depending on the higher mobility degree, FANET topology also changes more frequently than MANET and VANET topology. In addition to the mobility of FANET nodes, UAV platform failures also affect the network topology. When a UAV fails, the links that the UAV has been involved in also fail and it results in a topology update. As in the UAV failures, UAV injections also conclude a topology update. Another factor that affects the FANET topology is the link outages. Because of the UAV movements and variations of FANET node distances, link quality changes very rapidly and it also causes link outages and topology changes.]]></pText></PageText>
+       
+        <PageText>
+    	<pText><![CDATA[<b>Radio Propagation Model: </b><br>Differences between FANET and the other ad hoc network operating environments affect the radio propagation characteristics. MANET and VANET]]></pText></PageText>
+
+    </PageData>
+</main>

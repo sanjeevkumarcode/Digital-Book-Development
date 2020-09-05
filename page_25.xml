@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<main>
+  <PageData>
+	<MainHeading><![CDATA[]]></MainHeading>
+    <SubHeading><![CDATA[]]></SubHeading>
+       <PageText><pText><![CDATA[In the above Figure 5.16, both M2M network and other network is IP based. Hence all the communication layers are the same for both the networks.]]></pText></PageText>     
+       <PageText><pText><![CDATA[M2M area network management provides various features like fault-tolerance, scalability, low cost, low complexity, energy efficient, dynamic configuration capabilities, minimized management traffic and application dependence which includes data-centric application, emergency application and real-time application.]]></pText></PageText>
+
+	<PageText><pText><![CDATA[<b>Interoperability</b><br>There are several challenges in IoT at present. Large scale cooperation and coordination of millions of nodes, heterogeneous IoT devices and their subnets, different configuration modes for IoT devices which come from unknown owners and different processing logics applied to same IoT networked devices or applications are to name a few.]]></pText></PageText>
+    <PageText><pText><![CDATA[Interoperability is the characteristic of a product or system, whose interfaces are completely understood to work with other products or systems, present or future, in either implementation or access, without any restrictions. Interoperability is the meaningful communication or exchange of data or services.]]></pText></PageText>
+
+	  <b>Need for Interoperability</b><br>
+      <PageText><pText><![CDATA[ <ol class="DecimalNumberClass"><li>Interoperability is required to fulfil the following IoT objectives.</li></ol>]]></pText></PageText>
+
+	   	<PageText><pText><![CDATA[ <ul class="ListClassDisc"><li>Physical objects can interact with any other physical objects and can share their information.</li>
+	   	<li>Any device can communicate with any other devices anytime from anywhere.</li>
+	   	<li>Machine-to-Machine communication (M2M), Device-to-Device Communication (D2D) and Device-to-Machine Communication.</li>
+	   	<li>Seamless device integration with IoT network.</li></ul>]]></pText> </PageText>
+  
+      <PageText><pText><![CDATA[Need for Interoperability]]></pText></PageText>
+      <PageText><pText><![CDATA[ <ol class="DecimalNumberClass"><li>Heterogeneity</li></ol>]]></pText></PageText>
+
+		<PageText><pText><![CDATA[ <ul class="ListClassDisc"><li>Different wireless communication protocols such as ZigBee (IEEE 802.15.4), Bluetooth (IEEE 802.15.1), GPRS, 6LoWPAN and Wi-Fi (802.11)</li>
+       <li>Different wired communication protocols like Ethernet (IEEE 802.3) and higher layer LAN protocols (IEEE 802.1)</li>
+    	<li>Different programming languages used in computing systems and Websites such as JavaScript, Java, C, C++, Visual Basic, PHP and Python.</li>
+    	<li>Different hardware platforms such as crossbow, NI etc.</li>
+    	<li>Different operating systems. (For example the sensor nodes contain operating systems like TinyOS, SoS, MentisOS, RETOS and mostly vendor specific operating system while personal computers contain operating systems like Windows, Mac, Unix, Ubuntu etc.)</li>
+    </ul>]]></pText> </PageText>
+</PageData></main>
+ 
+

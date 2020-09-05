@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<main>
+  <PageData>
+	<MainHeading><![CDATA[]]></MainHeading>
+    <SubHeading><![CDATA[]]></SubHeading>
+    <PageText>
+      <pText><![CDATA[and thus, it can provide the position of the UAV at a quicker rate. The differences between MANET, VANET and FANET are outlined in Table 5.3.]]></pText></PageText>
+
+ <PageText>
+      <pText><![CDATA[Table 5.3 Differences between MANET, VANET and FANET<br>
+      	<table style="width:100%">
+  <tr>
+  	<th></th>
+    <th>MANET</th>
+    <th>VANET</th>
+    <th>FANET</th>
+  </tr>
+  <tr>
+    <td>Node mobility.</td>
+    <td>Low</td>
+    <td>High</td
+    <td>high</td>
+</tr>
+  <tr>
+    <td>Node density</td>
+    <td>Low</td>
+    <td>High</td>
+    <td>Very low</td>
+</tr>
+  <tr>
+    <td>Topology change</td>
+    <td>Slow</td>
+    <td>Fast</td
+    <td>Fast</td>
+</tr>
+  <tr>
+    <td>Computational Power</td>
+    <td>Limited</td>
+    <td>High</td
+    <td>High</td>
+</tr>
+  <tr>
+    <td>Local</td>
+    <td>Limited</td>
+    <td>High</td
+    <td>High</td>
+</tr>
+</tr>
+  <tr>
+    <td>Localization</td>
+    <td>GPS</td>
+    <td>GPS,AGPS,DGPS</td
+    <td>GPS,AGPS,DGPS,IMU</td>
+</tr>
+]]></pText></PageText>
+
+ 	<PageText>
+      <pText><![CDATA[<b>FANET Design Considerations<b><br>The distinguishing features of FANET impose unique design considerations. In this section, the most prominent FANET design considerations like adaptability, scalability, latency, UAV platform constraints and bandwidth requirements are discussed.]]></pText></PageText>
+<PageText>
+      <pText><![CDATA[<b>Adaptability:</b><br> There are several FANET parameters that can change during the operation of a multi-UAV system. FANET nodes are highly mobile and always change their location. Because of the operational requirements, the routes of the UAVs may be different and the distance between UAVs cannot be constant. Another issue that must be considered is the UAV failures. Consequent to a technical problem or an attack against multi-UAV system, some of the UAVs may fail during the operation. While UAV failures decrease the number of UAVs, UAV injections may be required to maintain the multi-UAV system operation. UAV failures and UAV injections change the FANET parameters.
+      Environmental conditions can also affect FANET. If the weather changes unexpectedly, FANET data links may not survive. FANET should be designed so that it should be able to continue to operate in a highly dynamic environment. The mission may also be updated during the multi-UAV system operation. Additional data or new information about the]]></pText></PageText>
+  </PageData>
+</main>
+ 

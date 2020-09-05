@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<main>
+  <PageData>
+	<MainHeading><![CDATA[]]></MainHeading>
+    <SubHeading><![CDATA[]]></SubHeading>
+        <PageText>
+      <pText><![CDATA[<div class="BigImgClass"><img src="en/images/img14.png"></div>]]></pText>
+    </PageText>
+  
+    <PageText>
+      <pText><![CDATA[<b>M2M Device Platform</b><br>This platform enables access to objects or devices connected to the Internet anywhere and at any time. Registered devices create a database of objects from which managers, users and services can easily access information. This platform manages device profiles such as location of the devices, device type, address and description. M2M device platform provides authentication and authorization key management functionalities. It also monitors the status of devices and M2M area networks and controls them based on their status.
+      ]]></pText></PageText>
+
+      <PageText>
+      <pText><![CDATA[<b>M2M User Platform</b><br>This platform manages M2M service user profiles and provides functionalities such as user registration, modification, charging and inquiry. M2M user platform interoperates with the M2M device platform and manages user access restrictions to devices, object networks or services. Service providers and device managers have administrative privileges on their devices or networks. Administrators can manage the devices through device monitoring and control.]]></pText></PageText>
+
+       <PageText>
+      <pText><![CDATA[<b>M2M Application Platform</b><br>M2M application platform provides integrated services based on data sets collected by devices. Heterogeneous data merged from various devices are used for creating new devices. This platform collects control processing log data for the management of the devices by working with the device platform. This platform provides connection management with the appropriate network for seamless service.]]></pText></PageText>
+      </PageData>
+  </main>

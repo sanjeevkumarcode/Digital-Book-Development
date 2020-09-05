@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<main>
+  <PageData>
+	<MainHeading><![CDATA[]]></MainHeading>
+    <SubHeading><![CDATA[]]></SubHeading>
+     	
+    <PageText>
+      <pText><![CDATA[<div class="BigImgClass"><img src="en/images/img18.png"></div>]]></pText>
+    </PageText>
+      
+      <PageText>
+      <pText><![CDATA[The structure of UMB core and UMB adaptor is shown in Figure 5.19 and 5.20 respectively.]]>
+       </pText></PageText>
+
+    <PageText>
+      <pText><![CDATA[<div class="BigImgClass"><img src="en/images/img19.png"></div>]]></pText>
+    </PageText>
+
+     <PageText>
+      <pText><![CDATA[The major role of the UMB core (UMB-C) is routing the universal metadata message to the destination or to any other UMB adaptor by the Middleware Routing Table (MRT).]]></pText></PageText>
+
+
+    <PageText>
+      <pText><![CDATA[<div class="BigImgClass"><img src="en/images/img20.png"></div>]]></pText>
+    </PageText>
+     
+      <PageText>
+      <pText><![CDATA[UMB-A converts physical devices into virtually abstracted one and store it in Virtual Device Proxy Database (VDP DB) as described by Universal Device Template (UDT).]]></pText></PageText>
+
+  </PageData>
+</main>
+ 
+
+
+

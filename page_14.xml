@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<main>
+  <PageData>
+	<MainHeading><![CDATA[]]></MainHeading>
+    <SubHeading><![CDATA[]]></SubHeading>
+      <PageText>
+      <pText><![CDATA[also need additional bandwidth resource. On the other hand, there are many constraints for the usage of available bandwidth such as: capacity of the communication channel, speed of UAVs, error-prone structure of the wireless links and lack of security with broadcast communication. A FANET protocol must satisfy the bandwidth capacity requirement so that it can relay very high resolution real time image or video under several constraints.]]></pText></PageText>
+
+	  <PageText><pText><![CDATA[<b>FANET Communication</b><br>There are several types of communication involved in FANET. Figure 5.5 shows different types of communication in a FANET.]]></pText></PageText>
+      
+        <PageText>
+      <pText><![CDATA[<div class="BigImgClass"><img src="en/images/img5.png"></div>]]></pText>
+    </PageText>
+
+  <PageText><pText><![CDATA[ <ul class="ListClassCircle">
+  	<li><b>Inter-plane Communication</b> – In Figure 5.5 there are three planes for FANET. The communication between UAVs in one plane and UAVs of another plane is called inter-plane communication.</li>
+    <li><b>Intra-plane Communication –</b> The communication between UAVs of the same plane is known as intra-plane communication.</li>
+    <li><b>Ground Station Communication –</b> This is the communication between UAVs of any plane to the ground or base station.</li>
+   <li><b>Ground Sensor Communication -</b> This is the communication between UAVs in any plane to the sensors on the ground</li></ul>]]></pText> </PageText>
+</PageData>
+</main>

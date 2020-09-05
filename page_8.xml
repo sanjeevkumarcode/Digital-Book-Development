@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<main>
+  <PageData>
+	<MainHeading><![CDATA[]]></MainHeading>
+    <SubHeading><![CDATA[]]></SubHeading>
+    <PageText>
+      <pText><![CDATA[<b>Mesh Topology</b><br>Mesh topology can be again classified as <ol><li>flat mesh configuration</li> <li>hierarchical mesh configuration.</li></ol> In a flat mesh configuration, all nodes are interconnected and one node will be connected to the ground station. In hierarchical mesh configuration, there will be several mesh groups and each mesh group will be at different hierarchy. One node from the mesh group at a lowest hierarchy will be connected to the ground station. Figure 5.3 <ol><li>shows a flat mesh configuration and Figure </li>5.3<li> shows a hierarchical mesh configuration.</li></ol> Mesh configurations are flexible, reliable and more secure compared to star configurations. Table 5.2 shows a comparison between star network configuration and mesh network configuration.
+      ]]></pText></PageText>
+
+     <PageText>
+      <pText><![CDATA[<div class="BigImgClass"><img src="en/images/img3.png"></div>]]></pText>
+    </PageText>
+
+  <PageText>
+      <pText><![CDATA[Table 5.2: Comparison between Star Network Configuration & Mesh Network Configuration<br>
+ <table style="width:100%">
+  <tr>
+    <th>Star Network</th>
+    <th>Mesh Network</th>
+  </tr>
+  <tr>
+    <td>Connection is point-to-point.</td>
+    <td>Connection is multi-point to multi-point.</td>
+  </tr>
+  <tr>
+  	<td>Infrastructure based.</td>
+  	<td>Infrastructure based or ad hoc.</td>
+  </tr>
+   <tr>
+  	<td>Central control point present.</td>
+  	<td>Infrastructure based may have a control center while ad hoc has no control center.</td>
+  </tr>
+   <tr>
+  	<td>Not self configuring.</td>
+  	<td>Self configuring.</td>
+  </tr>
+     <tr>
+  	<td>Single hop from node to central point.</td>
+  	<td>Multi hop communication.</td>
+  </tr>
+  <tr>
+  	<td>Devices cannot move freely.</td>
+  	<td>In ad hoc, devices are autonomous and free to move whereas in infrastructure based, movement is restricted to around the control center.</td>
+  </tr>
+      <tr>
+  	<td>Links between nodes and central points are configured.</td>
+  	<td>Multi hop communication.</td>
+  </tr>
+      <tr>
+  	<td>Inter node links are intermittent.</td>
+  	<td>Nodes communicate	through	central controller.	Nodes relay traffic for other nodes.</td>
+  </tr>
+
+</table>]]></pText>
+    </PageText>
+  </PageData>
+</main>

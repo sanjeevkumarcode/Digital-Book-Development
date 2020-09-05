@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<main>
+  <PageData>
+	<MainHeading><![CDATA[]]></MainHeading>
+    <SubHeading><![CDATA[]]></SubHeading>
+      <PageText><pText><![CDATA[<ul class="ListClassCircle">
+  	<li><b>FANET-VANET Communication –</b> The FANETs could communicate with the Vehicular Ad hoc Networks (VANET) on the ground.</li></ul>]]></pText> </PageText>
+      <PageText><pText><![CDATA[Air-to-Air (A2A) links are used for data delivery among UAVs. Heterogeneous radio interfaces can be considered in A2A links such as XBee-PRO (IEEE 802.15.4) and Wi-Fi (IEEE 802.11). The ground networks can be stationary WSNs, VANETS or control stations. UAV-WSN link-up may be used for collaborative sensing as well as data muling. UAV- VANETs link-up may be used for visual guidance, data muling and coverage enhancement.]]>
+      	</pText></PageText>
+	
+	  <PageText><pText><![CDATA[<b>Gateway Selection in FANETs</b><br>
+      Main communication requirements of UAV networks are the following.]]></pText></PageText>
+       <PageText><pText><![CDATA[ <ol class="DecimalNumberClass">
+       	<li>Sending back the sensor data.</li>
+        <li>Receiving the control commands.</li>
+        <li>Cooperative trajectory planning.</li>
+        <li>Dynamic task assignment.</li></ol>]]>
+        </pText> </PageText1>	
+         <PageText><pText><![CDATA[The number of UAV ground remote connections should be controlled to avoid interference. Reduced nodes in the UAV network should act as gateways to allow communication between all UAV and the ground. Entire UAV network coverage area is divided into sub-areas as shown in Figure 5.6.]]></pText></PageText>
+       
+    <PageText>
+      <pText><![CDATA[<div class="BigImgClass"><img src="en/images/img6.png"></div>]]></pText>
+    </PageText>
+
+    <PageText><pText><![CDATA[Sub-area collectively covers the entire communication area. The size of the sub-area to be controlled is adjusted dynamically. The adjustments are based on UAV inter-connections and derived metrics. The derived metrics are optimized for several iterations till optimum state is achieved. Gateway selection is initiated by selection of the most stable node in the sub-area. Figure 5.7 illustrates the selection of most stable node in a sub-area.]]></pText></PageText>
+</PageData>
+</main>

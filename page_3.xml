@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<main>
+  <PageData>
+	<MainHeading><![CDATA[]]></MainHeading>
+    <SubHeading><![CDATA[]]></SubHeading>
+    <PageText>
+      <pText><![CDATA[<b>Aircraft body</b><br>The primary difference for planes is the absence of the cockpit area and its windows.Tailless quadcopters are a common form factor for rotary wind UAVAs while tailed mono and bi-copters are common for manned platforms.
+        ]]></pText>
+    </PageText>
+
+    <PageText>
+      <pText><![CDATA[<b>Power supply and platform</b><br>Small UAVs mostly use lithium-polymer batteries(Li-Po), while larger vehicles rely on conventional airplane engines.Battery elimation circuitry (BES) is used to centralize power distribution and often harbors a microcontroller unit(MCU). Costlier switching BECs diminsh heating on the platforms.
+        ]]></pText>
+    </PageText>
+
+    <PageText>
+      <pText><![CDATA[<b>Computing module</b><br>UAV computing capability followed the advances of computing technology, beginning with analog controls and evolving into microcontrollers, then system-on-a-chip(SOC) and single-board computers.System hardware for small UAVs is often called the Flight Controller .Fight Controller Board(FCB) or Autopiolet.
+      ]]></pText>
+    </PageText>
+
+    <PageText>
+      <pText><![CDATA[<b>Sensors</b><br>Position and movement sensors give information about the aircraft state. Exteroceptive sensors deal with external information like distance measurements, while exproprioceptive ones correlate internal and external states. Non-cooperative sensors are able to detect targets autonomously so they are used for separation assurance and collision avoidance. Degrees of freedom (DOF) refer to both the amount and quality of sensors on-board: 6 DOF implies 3-axis gyroscopes and accelerometers (a typical inertial measurement unit – IMU), 9 DOF refers to an IMU plus a compass, 10 DOF adds a barometer and 11 DOF usually adds a GPS receiver.]]>
+    </pText>
+      </PageText>
+
+ <PageText>
+      <pText><![CDATA[<b>Actuators</b><br>UAV actuators include digital electronic speed controllers (which control the RPM of the motors) linked to motors/engines and propellers, servomotors (for planes and helicopters mostly), weapons, payload actuators, LEDs and speakers.]]>
+    </pText>
+      </PageText>
+
+<PageText>
+      <pText><![CDATA[<b>Software</b><br>UAV software called the flight stack or autopilot. UAVs are real-time systems that require rapid response to changing sensor data. Examples include Raspberry Pis, Beagleboards, etc. shielded with NavIO, PXFMini, etc. or designed from scratch such as Nuttx, preemptive-RT Linux, Xenomai, Orocos-Robot Operating System or DDS-ROS 2.0.]]>
+    </pText>
+      </PageText>
+    </PageData>
+</main>

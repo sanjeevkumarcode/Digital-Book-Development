@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<main>
+  <PageData>
+	<MainHeading><![CDATA[]]></MainHeading>
+    <SubHeading><![CDATA[]]></SubHeading>
+      
+      <PageText>
+      <pText><![CDATA[<div class="BigImgClass"><img src="en/images/img7.png"></div>]]></pText>
+    </PageText>
+     
+    <PageText>
+      <pText><![CDATA[Consecutively, the partition parameters are optimized according to topology. Each UAV acquires the information of all UAVs within its 2 hops. There are layered gateways in FANETs. Figure 5.8 shows layered gateways in FANET.]]></pText>
+    </PageText>
+      
+    <PageText>
+      <pText><![CDATA[<div class="BigImgClass"><img src="en/images/img8.png"></div>]]></pText>
+    </PageText>
+
+    <PageText>
+      <pText><![CDATA[In a multi-layered UAV topology, there will be one gateway in each layer. The gateways from each layer communicate forwarded information between layers as well as from ground]]></pText></PageText>
+
+  </PageData>
+</main>

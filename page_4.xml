@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<main>
+  <PageData>
+	<MainHeading><![CDATA[]]></MainHeading>
+    <SubHeading><![CDATA[]]></SubHeading>
+    <PageText>
+      <pText><![CDATA[<b>Loop principles</b><br>UAVs employ open-loop, closed-loop or hybrid control architectures. Open loop provides a positive control signal (faster, slower, left, right, up, down) without incorporating feedback from sensor data. Closed loop incorporates sensor feedback to adjust behavior (reduce speed to reflect tailwind, move to altitude 300 feet). The proportional–integral–derivative (PID) controller is common. Sometimes, feed forward is employed, transferring the need to close the loop further.]]></pText></PageText>
+
+   <PageText>
+      <pText><![CDATA[<b>Flight controls</b><br>Flight control is one of the lower-layer systems and is similar to manned aviation: plane flight dynamics, control and automation, helicopter flight dynamics and controls and multi-rotor flight dynamics were researched long before the rise of UAVs. Automatic flight involves multiple levels of priority.
+      UAVs can be programmed to perform aggressive maneuvers or landing/perching on inclined surfaces and then to climb toward better communication spots. Some UAVs can control flight with varying flight models such as Vertical Take-Off and Landing (VTOL) designs. UAVs can also implement perching on a flat vertical surface.]]></pText></PageText>
+
+  <PageText>
+      <pText><![CDATA[<b>Communications</b><br>Most UAVs use a radio frequency front-end that connects the antenna to the analog-to-digital converter and a flight computer that controls avionics. They are capable of autonomous or semi-autonomous operation. Radio allows remote control and exchange of video and other data. In military systems and high-end domestic applications, downlink may convey payload management status. In civilian applications, most transmissions are commands from operator to vehicle. Downstream is mainly video. Telemetry is another kind of downstream link, transmitting status about the aircraft systems to the remote operator. UAVs also use satellite “uplink” to access satellite navigation systems.
+      The radio signal from the operator side can be issued from either:]]>
+    </pText></PageText>
+
+  <PageText><pText><![CDATA[ <ol class="LowerAlphaClass">
+    <li><b>Ground control –</b> a human operating a radio transmitter/receiver, a smart phone, a tablet, a computer, or the original meaning of a military Ground Control Station (GCS). Recently control from wearable devices, human movement recognition, human brain waves is also available.</li>
+
+      <li><b>Remote network system-</b> such as satellite duplex data links for some military powers. Downstream digital video over mobile networks has also entered consumer markets, while direct UAV control uplink over the celullar mesh is under researched.</li>
+      
+      <li>Another aircraft, serving as a relay or mobile control station – military manned- unmanned teaming (MUM-T).
+    </li>
+</ol>]]></pText> 
+</PageText>
+</PageData>
+</main>

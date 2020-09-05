@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<main>
+  <PageData>
+	<MainHeading><![CDATA[]]></MainHeading>
+    <SubHeading><![CDATA[]]></SubHeading>
+    <PageText>
+      <pText><![CDATA[<b>FANET</b><br>Flying Ad hoc Network (FANET) is a subclass of Mobile Ad hoc Network (MANET) and made up of a swarm of small flying vehicles enabled with camera, sensor and GPS system. In FANET, network formation will be using UAVs which ensures longer range, clearer line of sight propagation and environment resilient communication. UAVs may be in same plane or organized at varying altitudes. Besides self-control, each UAV must be aware of the other flying nodes of the FANET to avoid collision. These FANETS are popular for disaster time and post disaster emergency network establishment. There are situations such as flooding, war zone and rescue operations where traditional MANETs cannot be deployed because they uses ground moving nodes. FANETs can play significant role in those situations because they employ a swarm of UAVs to form ad hoc network. Figure 5.4 shows the architecture for FANET.]]></pText></PageText>
+   <PageText>
+      <pText><![CDATA[<div class="BigImgClass"><img src="en/images/img4.png"></div>]]></pText>
+    </PageText>
+
+ <PageText>
+      <pText><![CDATA[<b>Differences between FANET and the Existing Ad hoc Networks</b><br>Wireless ad hoc networks are classified according to their utilization, deployment, communication and mission objectives. By definition, FANET is a form of MANET and there are many common design considerations for MANET and FANET. In addition to this, FANET can also be classified as a subset of VANET, which is also a subgroup of MANET. FANET shares common characteristics with these networks, and it also has several unique design challenges. Following are the differences between FANET and other existing ad hoc networks.]]></pText></PageText>
+
+
+</PageData></main>

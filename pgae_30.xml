@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<main>
+  <PageData>
+	<MainHeading><![CDATA[]]></MainHeading>
+    <SubHeading><![CDATA[]]></SubHeading>
+    <PageText>
+      <pText><![CDATA[<div class="BigImgClass"><img src="en/images/img22.png"></div>]]></pText>
+    </PageText>
+
+   <PageText>
+      <pText><![CDATA[<b>Conclusion</b><br>This Chapter gives a detailed description of UAV networks, M2M communication and interoperability issues in IoT. The components of UAV network is illustrated in detail. The features, challenges and various topologies involved in UAV network are described. Another important concept called FANET, differences between FANET and the existing ad hoc networks, design considerations for FANET, communications in FANET, gateway selection in FANETs are elaborately explained. Another important topic known as M2M communication, its applications, different types of node in M2M, M2M ecosystem and M2M service platform are well explained. Finally, the interoperability in IoT, need for interoperability, types of interoperability are clearly illustrated.]]></pText></PageText>
+
+  </PageData>
+</main>

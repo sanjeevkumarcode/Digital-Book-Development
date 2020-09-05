@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<main>
+  <tableofcontent> Contents</tableofcontent>
+  <MainBookName>internet of Things</MainBookName>
+  <Topics>       
+    <Content id="5" HeaderContant="Chapter 5. UAV Networks & M2M Communication"><![CDATA[5.1._ Introduction]]></Content>
+    <Path><![CDATA[page_1.html]]></Path>
+  </Topics>
+ <Topics>
+    <Content HeaderContant=""><![CDATA[5.2._ UAV Components]]></Content>
+    <Path><![CDATA[page_2.html]]></Path>
+  </Topics> 
+ <Topics>
+    <Content HeaderContant=""><![CDATA[5.3._ UAV Networks]]></Content>
+    <Path><![CDATA[page_3.html]]></Path>
+  </Topics> 
+ <Topics>
+    <Content HeaderContant=""><![CDATA[5.3.1._ Features]]></Content>
+    <Path><![CDATA[page_4.html]]></Path>
+  </Topics> 
+ <Topics>
+    <Content HeaderContant=""><![CDATA[5.3.2._ Challenges]]></Content>
+    <Path><![CDATA[page_5.html]]></Path>
+  </Topics> 
+ <Topics>
+    <Content HeaderContant=""><![CDATA[5.3.3._ Topology]]></Content>
+    <Path><![CDATA[page_6.html]]></Path>
+  </Topics> 
+ <Topics>
+    <Content HeaderContant=""><![CDATA[5.4._ FANET]]></Content>
+    <Path><![CDATA[page_7.html]]></Path>
+  </Topics> 
+ <Topics>
+    <Content HeaderContant=""><![CDATA[5.4.1._ Differences between FANET and the Exisiting Ad hoc Networks]]></Content>
+    <Path><![CDATA[page_8.html]]></Path>
+  </Topics> 
+ <Topics>
+    <Content HeaderContant=""><![CDATA[5.4.2._ FANET Design Consideration]]></Content>
+    <Path><![CDATA[page_9.html]]></Path>
+  </Topics> 
+<Topics>
+<Topics>
+    <Content HeaderContant=""><![CDATA[5.4.3._ FANET Communication]]></Content>
+    <Path><![CDATA[page_10.html]]></Path>
+  </Topics> 
+<Topics>
+<Topics>
+    <Content HeaderContant=""><![CDATA[5.4.4._ Gateway Selection in FANETs]]></Content>
+    <Path><![CDATA[page_11.html]]></Path>
+  </Topics> 
+<Topics>
+<Topics>
+    <Content HeaderContant=""><![CDATA[5.5._ M2M Communication]]></Content>
+    <Path><![CDATA[page_12.html]]></Path>
+  </Topics> 
+<Topics>
+    <Content HeaderContant=""><![CDATA[5.6._ M2M Applications]]></Content>
+    <Path><![CDATA[page_13.html]]></Path>
+  </Topics> 
+  <Topics>
+    <Content HeaderContant=""><![CDATA[5.7._ Types of Node in M2M]]></Content>
+    <Path><![CDATA[page_14.html]]></Path>
+  </Topics> 
+  <Topics>
+    <Content HeaderContant=""><![CDATA[5.8._ M2M Ecosystem]]></Content>
+    <Path><![CDATA[page_15.html]]></Path>
+  </Topics> 
+  <Topics>
+    <Content HeaderContant=""><![CDATA[5.9._ M2M Service Platform]]></Content>
+    <Path><![CDATA[page_16.html]]></Path>
+  </Topics> 
+  <Topics>
+    <Content HeaderContant=""><![CDATA[5.10._ Interoperability]]></Content>
+    <Path><![CDATA[page_17.html]]></Path>
+  </Topics> 
+  <Topics>
+    <Content HeaderContant=""><![CDATA[5.11._ Need for Interoperability]]></Content>
+    <Path><![CDATA[page_18.html]]></Path>
+  </Topics> 
+  <Topics>
+    <Content HeaderContant=""><![CDATA[5.12._ Types of Interoperability]]></Content>
+    <Path><![CDATA[page_19.html]]></Path>
+  </Topics> 
+  <Topics>
+    <Content HeaderContant=""><![CDATA[5.13._ Conclusion]]></Content>
+    <Path><![CDATA[page_20.html]]></Path>
+  </Topics> 
+
+</main>

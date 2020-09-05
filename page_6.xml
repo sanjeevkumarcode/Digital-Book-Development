@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<main>
+  <PageData>
+	<MainHeading><![CDATA[]]></MainHeading>
+    <SubHeading><![CDATA[]]></SubHeading>
+    <PageText>
+      <pText><![CDATA[In such cases the remaining nodes in the network re-organize and re-establish communication.
+   <li><b>Flexible deployment and management using SDN:</b> UAV networks apply the concept of Software Defined Networking (SDN) for flexible deployment and management of wireless environments. In networks like VANETs, the use of SDN can help in path selection and channel selection. This helps in reducing interference, improved usage of wireless resources including channels and routing in multi-hop mesh networks.</li>
+  <li><b>Routing protocol should be adaptive:</b> Static protocols have static routing tables, which are computed and loaded when the task starts. These tables cannot be updated during an operation. Because of this constraint, these systems are not fault tolerant or suitable for dynamically changing environment. UAV systems need routing protocols that are adaptive in nature.</li>]]></pText></PageText>
+
+	 <PageText>
+      <pText><![CDATA[<b>Challenges</b><br>UAVS pose a large number of challenges which are still undergoing researches to mitigate the challenges.<br>]]></pText></PageText>
+
+     <PageText><pText><![CDATA[ <ol class="LowerAlphaClass"><li><b>Link failures:</b> The UAV networks constituted for various applications may vary from slow dynamic to the ones that fly at considerable speeds. The nodes may go out of service due to failure or power constraints and get replaced by new ones. Link disruption may frequently occur because of the positions of UAVs and ground stations. Additionally, the links could have high bit error rates due to interference or natural conditions. Links are prone to malfunction due to environmental effects like winds, rain etc.</li>
+
+	<li><b>Huge power requirements:</b> Each drone needs to be powered  by  battery  or other sources like solar energy. The power requirements are high since each node continuously monitors or senses data. In green networks, radios in the nodes may be automatically switched off for power conservations when the load is low.</li>
+	
+	<li><b>Change in network topology:</b> There will be frequent change in network topology due to several reasons like malfunctioning of UAVs, changes in the relative position of UAVs and intermittent link nature. The fluid topology, the vanishing nodes and finicky links would all challenge the designer to go beyond the normal ad hoc mesh networks.</li>
+   
+   <li><b>Lack of suitable routing algorithm:</b> The routing protocol cannot be a simple implementation of a proactive or a reactive scheme. The inter-UAV backbone has to repeatedly reorganize itself when UAVs fail. In some cases the network may get partitioned. The challenge would then be to route the packet from a source to a destination while optimizing the chosen metric. Another challenge would be to maintain users’ sessions by transferring them seamlessly from an out of service</li></ol>]]></pText></PageText>
+</PageData></main>
+ 

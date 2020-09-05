@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<main>
+  <PageData>
+	<MainHeading><![CDATA[]]></MainHeading>
+    <SubHeading><![CDATA[]]></SubHeading>
+     	<PageText><pText><![CDATA[ <ul class="ListClassDisc">
+     	<li>Different databases like DB2, MySQL, Oracle, PostgreSQL, SQLite, SQL server, Sybase etc.</li>
+        <li>Different data representations.</li>
+        <li>Different control models.</li>
+      	<li>Different syntactic or semantic interpretations.</li></ul>]]>
+      </pText></PageText>
+
+	<PageText><pText><![CDATA[<b>Types of Interoperability</b><br>Interoperability can be classified as a) user interoperability b) device interoperability. User interoperability is the interoperability problem between a user and a device whereas device interoperability is the interoperability problem between two different devices. Figure 5.17 which show the user and device interoperability issues.]]></pText></PageText>
+    <PageText><pText><![CDATA[ Consider the following scenario where both devices A and B provide a real-time security service using IoT. Device A is placed at New Delhi, India while device B is placed at Tokyo, Japan. The devices A, B uses Hindi, Japanese languages respectively while user U uses English. The user U wants real-time service of CCTV camera from the devices A and B. The user does not understand the messages from devices A and B. Similarly devices A and B do not mutually understand each other. This is because devices A and B are different in terms of syntactic and semantic notions.]]></pText></PageText>
+
+
+    <PageText>
+      <pText><![CDATA[<div class="BigImgClass"><img src="en/images/img17.png"></div>]]></pText>
+    </PageText>
+
+     <b>User Interoperability</b><br>
+    <PageText><pText><![CDATA[ <ol class="LowerAlphaClass">
+     <li>In user interoperability, the following problem needs to be solved.</li>
+     <li>Device identification and categorization for discovery.</li>
+     <li>Syntactic interoperability for device interaction.</li>
+	 <li>Semantic interoperability for device interaction.</li>
+     </ol>]]></pText> </PageText>
+ </PageData>
+</main>

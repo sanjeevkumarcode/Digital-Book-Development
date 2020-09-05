@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<main>
+  <PageData>
+	<MainHeading><![CDATA[]]></MainHeading>
+    <SubHeading><![CDATA[]]></SubHeading>
+       <PageText>
+      <pText><![CDATA[The control of trajectory is important for increasing the throughput. UAVs with queue occupancy above a threshold, experiences congestion resulting in communication delay. In such situations, the control station instructs UAVs to change centers of trajectory. Commands will be given to UAVs based on traffic at communication links that are busy. To provide enhanced coverage, UAVs may be commanded to change the radius of their trajectories.]]></pText></PageText>
+	
+	 <PageText>
+      <pText><![CDATA[M2M CommunicationMachine-to-machine communication, or M2M, is the communication between two machines or exchanging data, without human interfacing or interaction. This includes serial connection, powerline connection (PLC), or wireless communications in the industrial Internet of Things (IoT). Switching over to wireless has made M2M communication much easier and enabled more applications to be connected. In general, when someone says M2M communication, they often are referring to cellular communication for embedded devices. Examples of M2M communication in this case would be vending machines sending out inventory information or ATM machines getting authorization to dispense cash. Figure 5.11 shows a typical example for M2M communication.]]></pText></PageText>
+      
+      <PageText>
+      <pText><![CDATA[<div class="BigImgClass"><img src="en/images/img11.png"></div>]]></pText>
+    </PageText>
+
+     <PageText>
+      <pText><![CDATA[In the above example, when an accident occurs, from the emergency sensors in the car, information is sent to remote servers. The server alerts the hospital, emergency services, paramedics and the doctors. Ambulance and paramedics will be dispatched to the location where accident took place. Patient’s vital information will be transmitted from the ambulance]]></pText></PageText>
+  </PageData>
+</main>
+ 
+

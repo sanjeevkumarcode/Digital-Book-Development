@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<main>
+  <PageData>
+	<MainHeading><![CDATA[]]></MainHeading>
+    <SubHeading><![CDATA[]]></SubHeading>
+    <PageText>
+      <pText><![CDATA[<b>UAV Network</b><br>A network comprising of several UAVS are termed as UAV networks. There are several features for UAV networks which makes it suitable for IoT applications. At the same time there are several challenges for UAV networks.]]></pText></PageText>
+    <PageText>
+      <pText><![CDATA[<b>Features</b><br>The advantages of UAV networks include high reliability, high survivability, single malfunction proof, cost effective, efficient and can be used for speeded up missions. Following are the features of UAV networks.]]></pText></PageText>
+
+      <PageText><pText><![CDATA[ <ol class="LowerAlphaClass"><li><b>Infrastructure-based or ad hoc :</b> Most of the available literature treats UAV networks as ad hoc networks. Depending on the application, the UAV network could have stationary, slow moving or highly mobile nodes. Many applications require UAV nodes to act as base stations in the sky to provide communication coverage to an area. Thus, unlike MANET and VANET ad hoc networks, the UAV networks could behave more like infrastructure-based networks for these applications. These would have UAVs communicating with each other and also with the control center. Such a network would resemble the fixed wireless network with UAVs as base stations except that they are aerial. There is, however, a class of applications where the nodes would be highly mobile and would communicate, cooperate and establish the network dynamically in an ad hoc manner. In such a case the topology may be determined, and the nodes involved in forwarding data decided, dynamically. There are many issues that affect both UAV infrastructure based and UAV ad hoc networks. For example, replacing nodes by new nodes when they fail or their power gets exhausted.</li>
+
+    <li><b>Server or client:</b> Another point of distinction is whether the node acts as a server or a client. In vehicular networks they are usually clients, in mobile ad hoc networks most of the time they would be clients and may also provide forwarding services to other clients’ data. In UAV networks, the UAV nodes are usually servers, either routing packets for clients or relaying sensor data to control centers.</li>
+
+  <li><b>Star or mesh:</b> Architecture of UAV networks for communication applications is an understudied area. The simplest configuration is a single UAV connected to a ground based command and control center. In a multi-UAV setting, the common topologies that can be realized are star, multi-star, mesh and hierarchical mesh.</li>
+
+  <li><b>Large coverage area:</b>UAV networks especially multi-UAV networks can cover a large area compared to other kinds of networks. This makes it cost effective.</li>
+
+  <li><b>Easily reconfigurable:</b> The nodes monitor their links and any failures trigger the reconfiguration process. The autonomous network reconfiguration system requires computational overhead and reasonable bandwidth. There are times when some of the UAVs could go out of service because of battery drain or communication failure.</li>
+ </ol>]]></pText></PageText>
+</PageData>
+</main>

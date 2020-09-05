@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<main>
+  <PageData>
+  <MainHeading><![CDATA[]]></MainHeading>
+    <SubHeading><![CDATA[5.1_ UAVNETWORKS&M2MCOMMUNICATION]]></SubHeading>
+    <PageText>
+      <pText><![CDATA[This Chapter explains three important topics namely Unnamed Aerial Vehicle Networks,Machine to Machine Communication(M2M) and interoperability in internet of Things. An Unmanned Aerial Vehicle(UAV),commonly knows a drone, is an aircraft without a human piolet aboard. UAVs are a component of an Unmanned Aircraft Sysrtem which included a UAV a ground-based controller and a system of autonomy:either under remmote control by a human operator or autonomously by onboard computers.]]></pText>
+    </PageText>
+
+    <PageText>
+      <pText><![CDATA[Compared to manned aircraft, UAVs were originally used for missions too "dull, dirty or dangerous "for humans.While they originated used for missions too "dull,dirty or dangerous "for humans.While they originated mostly in military appllications, their use is rapidly expanding to commercial ,scientificm recreational,agricultural and aother applications, such as policing, peacekeeping, surveillance, product deliveries, aerial photogrphy, agriculture, smuggling and drone racing. Civilian UAVs now vastly outnumber military UAVs. They can be seen as an early commercial application of autonomous, to be followed by the autonomous can and home robots.]]></pText>
+    </PageText>
+
+    <PageText>
+      <pText><![CDATA[There are single UAV system as well as Multi-UAV systems. Multi-UAV systems can collaboratively complete missions more efficiently and economially as compared to single UAV systems. Multiple UAVs can cover a given aera faster or take photos from different perspectives at the same time. The development of such muti-UAV systems is still at an early stage and consequenty, profound research efforts are needed. Table 5.1 gives a comparison of single UAV system and Multi-UAV systems.]]></pText>
+    </PageText>
+    
+     <PageText>
+      <pText><![CDATA[Table 5.1: Comparison of Single UAV and Multi-UAV Systems<br>
+        <table style="width:100%">
+  <tr>
+    <th>Features</th>
+    <th>Single UAV System</th>
+    <th>Multi-UAV System</th>
+  </tr>
+  <tr>
+    <td>Failures</td>
+    <td>High</td>
+    <td>Low</td>
+  </tr>
+  <tr>
+    <td>Scalability</td>
+    <td>Limited</td>
+    <td>High</td>
+  </tr>
+<tr>
+    <td>Survivability</td>
+    <td>Poor</td>
+    <td>High</td>
+  </tr>
+</table>]]></pText>
+    </PageText>
+  </PageData>
+</main>

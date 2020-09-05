@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<main>
+  <PageData>
+	<MainHeading><![CDATA[]]></MainHeading>
+    <SubHeading><![CDATA[]]></SubHeading>
+       <PageText>
+      <pText><![CDATA[to the doctors automatically. This may help the doctors to get ready while the ambulance reaches the hospital. This is a typical example for M2M communication where there is no intervention of human beings.]]></pText></PageText>
+  <PageText>
+      <pText><![CDATA[M2M communication is similar to industrial Supervisory Control and Data Acquisition system (SCADA). SCADA is designed for isolated systems using proprietary solutions whereas M2M is designed for cross-platform integration. Figure 5.12 gives an overview of M2M communication.]]></pText></PageText>
+      
+       <PageText>
+      <pText><![CDATA[<div class="BigImgClass"><img src="en/images/img12.png"></div>]]></pText>
+    </PageText>
+
+   <PageText>
+      <pText><![CDATA[At the outermost layer lie the sensors which sense the data. The sensed data is sent through a network to a server. At the server, information is extracted and processing is done. The action to be taken is sent to the actuators for appropriate action.]]></pText></PageText>
+  <PageText>
+      <pText><![CDATA[There are several features for M2M communication. Large number of nodes or devices can be involved in an M2M communication. Another feature of M2M is that it sends/receive small traffic per machine or device. Large quantity of collective data is generated which can be stored and queried later at any time. There is improved device connectivity because of the cloud data model. The cloud data model optimizes the device data communication aspect thereby reducing protocol overhead and easing device management. M2M communications are free from human intervention. Human intervention is required for operational stability and sustainability. In some situations, the device itself performs data analysis and correlation to trigger business decisions, with no programming skills required.]]>
+      	</pText>
+  </PageText>
+
+	<PageText>
+      <pText><![CDATA[<b>M2M Applications</b><br>Machine-to-Machine communications have diverse applications in many domains. With better sensors, wireless networks and increased computing capability, deploying an M2M makes sense for many sectors including environmental monitoring, civil protection & public safety, Supply Chain Management (SCM), energy & utility distribution industry (smart grid), intelligent transportation systems, healthcare, automation of building, military applications, agriculture, home networks etc. We will see some important applications in detail.]]>
+  </pText></PageText>
+</PageData>
+</main>

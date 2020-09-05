@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<main>
+  <PageData>
+	<MainHeading><![CDATA[]]></MainHeading>
+    <SubHeading><![CDATA[]]></SubHeading>
+         <PageText><pText><![CDATA[nodes is mobility. Example for these types of nodes is smart phones. These nodes are applied in military or bio/medical application.]]></pText></PageText>
+
+	 <PageText><pText><![CDATA[<b>M2M Ecosystem</b><br>M2M ecosystem comprises of device providers, Internet service providers (ISPs), platform providers, service providers and service users. Figure 5.13 shows an M2M ecosystem. In this we have an M2M network which consists of various devices. The device provider is the one who owns the devices. The data from the M2M area network will be sent via a gateway to the Internet which is managed by Internet Service Provider (ISP). The RESTful architecture acts as the interface between device providers and ISP. RESTful architecture is used in low resource environment. From the ISP the data reaches the platform provider. The platform provider takes care of device management, user management, data analytics and user access. The data is then through a RESTful architecture which takes care of the business model to the service providers and users.]]></pText></PageText>
+
+        <PageText>
+      <pText><![CDATA[<div class="BigImgClass"><img src="en/images/img13.png"></div>]]></pText>
+    </PageText>
+
+     <PageText><pText><![CDATA[<b>M2M Service Platform</b><br>In an M2M service platform, there are several functionalities for devices, users, applications and access. The data from these devices, users, applications and access passes through an access network like ZigBee, Wi-Fi etc. and are sent to M2M area network. Similarly the data from several M2M networks passes through the access network to the core network which supports all the platforms like devices, users, applications and access. Figure 5.14 depicts an M2M service platform. We will see each component in detail.
+     ]]></pText></PageText>
+ </PageData>
+</main>

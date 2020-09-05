@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<main>
+  <PageData>
+	<MainHeading><![CDATA[]]></MainHeading>
+    <SubHeading><![CDATA[]]></SubHeading>
+     	
+    <PageText>
+      <pText><![CDATA[consists of a global device id, global function id, global action id, global event id and global parameters. UMB adaptors translate the local middleware’s message into global metadata’s message. Figure 5.21 shows the flow when a new device is plugged in.]]></pText></PageText>
+
+      <PageText>
+      <pText><![CDATA[<div class="BigImgClass"><img src="en/images/img21.png"></div>]]></pText>
+    </PageText>
+      
+      <PageText>
+      <pText><![CDATA[When a new device is plugged in to the UMB-A1, the first step is to detect the device and configure the device. Then a virtual device is created. The information like device online status, device id etc. is sent from the UMB adaptor to the UMB core. From the UMB core, the online status of the device, device id etc. is sent to UMB adaptor of other devices namely UMB-A2, UMB-A3, UMB-A4 and so on. There Virtual Device Proxy Database (VDP DB) is created. This is how two heterogeneous devices following different configurations communicate with each other.]]></pText></PageText>
+    
+    <PageText>
+      <pText><![CDATA[Consider the following scenario in which a device is controlled and monitored. The local control or monitoring message is sent from first device to UMB-A1.From UMB-A1, local to UMB message conversion takes place and a query/action request is sent to UMB-C. From UMB-C, this query/action request is sent to UMB-A2 of the second device. Here UMB to local message conversion and local control/monitoring message takes place. A local message is then sent to UMB-A2. From there a query/action response is sent to UMB-A1 through UMB-C. UMB-A1 sends back local message to first device. Figure 5.22 shows the flow when a device is controlled and monitored.]]></pText></PageText>
+
+  </PageData>
+</main>

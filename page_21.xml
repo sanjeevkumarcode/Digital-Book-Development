@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<main>
+  <PageData>
+	<MainHeading><![CDATA[]]></MainHeading>
+    <SubHeading><![CDATA[]]></SubHeading>
+         <PageText><pText><![CDATA[ <ol class="DecimalNumberClass">
+       	<li><b>Smart Utility Management</b><br>In the new age of energy efficiency, automation will quickly become the new normal. As energy companies look for new ways to automate the metering process, M2M comes to the rescue, helping energy companies automatically gather energy consumption data, so they can accurately bill customers. Smart meters can track how much energy a household or business uses and automatically alert the energy company, which supplants sending out an employee to read the meter or requiring the customer to provide a reading. This is even more important as utilities move toward more dynamic pricing models, charging consumers more for energy usage during peak times.</li>
+       <li><b>Traffic Control</b><br>Traffic control is another dynamic environment that can benefit from M2M communications. In a typical system, sensors monitor variables such as traffic volume and speed. The sensors send this information to computers using specialized software that controls traffic-control devices, like lights and variable informational signs. Using the incoming data, the software manipulates the traffic control devices to maximize traffic flow. Researchers are studying ways to create M2M networks that monitor the status of infrastructure, such as bridges and highways.
+       Machine-to-machine communication appears to have a bright future. It’s a flexible technology that uses common equipment in new ways. Every day, businesses, engineers, scientists, doctors and many others are finding new ways to use this new communications tool.</li>]]></pText></PageText>
+
+         <PageText><pText><![CDATA[<b>Types of Node in M2M</b><br>M2M has three types of sensor nodes. They are]]></pText></PageText>
+         <PageText><pText><![CDATA[ <ol class="DecimalNumberClass"><li> Low-end sensor nodes</li>
+         <li>Mid-end sensor nodes</li>
+         <li>High-end sensor nodes.</li>
+         ]]></pText></PageText>
+         
+         <PageText><pText><![CDATA[<b> Low-end sensor nodes:</b><br> These nodes are cheap and have low capabilities. They are static, energy efficient and simple. The deployment has high density in order to increase network lifetime and survivability. These nodes are resource constrained with no IP support. These nodes perform basic functionalities such as data aggregation, auto configuration and power saving. They are generally used for environment monitoring applications.]]></pText></PageText>
+          <PageText><pText><![CDATA[<b>Mid-end sensor nodes:</b><br>These nodes are more expensive than low-end sensor nodes. These nodes may have mobility. They have fewer constraints with respect to complexity and energy efficiency. They perform functionalities such as localization, Quality of Service (QoS) support, TCP/IP support, power control or traffic control and intelligence. These nodes are used in applications like home networks, Supply Chain Management (SCM), asset management and industrial automation.]]></pText></PageText>
+         
+           <PageText><pText><![CDATA[<b>High-end sensor nodes:</b><br>These nodes are deployed in a low density manner. They are able to handle multimedia data (video) with QoS requirements. An essential feature of these]]></pText></PageText>
+   </PageData>
+</main>

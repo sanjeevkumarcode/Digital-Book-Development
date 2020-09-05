@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<main>
+  <PageData>
+  <MainHeading><![CDATA[]]></MainHeading>
+    <SubHeading><![CDATA[]]></SubHeading>
+     <PageText>
+      <pText><![CDATA[
+<table>
+  <tr>
+    <td>Speed of Mission</td>
+    <td>Slow</td>
+    <td>Fast</td>
+  </tr>
+  <tr>
+    <td>Cost</td>
+    <td>Medium</td>
+    <td>High</td>
+  </tr>
+<tr>
+    <td>Bandwidth Required</td>
+    <td>High</td>
+    <td>Medium</td>
+  </tr>
+  <tr>
+    <td>Antenna</td>
+    <td>Omni-directional</td>
+    <td>Directional</td>
+  </tr>
+  <tr>
+    <td>Complexity of control</td>
+    <td>Low</td>
+    <td>High</td>
+  </tr>
+  <tr>
+    <td>Failure of co-ordinate</td>
+    <td>Low</td>
+    <td>present</td>
+  </tr>
+  <tr>
+</table>]]></pText>
+    </PageText>
+  <PageText>
+      <pText><![CDATA[<b>UAV Components</b><br>Manned and unmanned aircraft of the same type generally have reconginsably similarphysical support systems. Some UAVs carry payloads(such as a camera) that weigh considerably less than an adult human, and as a result can be considerably smaller.Though they carry with comparable arranaments.]]></pText>
+    </PageText>
+      <PageText>
+      <pText><![CDATA[Small civillan UAVs have no life-critical systems and can thus be built out of lighter but less sturdy materials and shapes and can less robustly tested electronic control systems. For small UAVs the quadcopte design has become popular , though this layout is rarely used for manned aircraft Miniaturization means that less-powerful propulsion technoliges can be used that are not feasible for manned aircraft, such as small electric motors and batteries.]]></pText>
+    </PageText>
+      <PageText>
+      <pText><![CDATA[Control systems for UAVs are often different than manned craft. For remote human contro,a camera and video link almost always the cockpit windows;radio-transmitted digital commands replace physical cockpit controls. Autopiolet software is used on both manned and unmanned aircraft ,with verying feature sets. Figure 5.1 shows the architecture of UAV.]]></pText>
+    </PageText>
+    <PageText>
+      <pText><![CDATA[<div class="BigImgClass"><img src="en/images/img1.png"></div>]]></pText>
+    </PageText>
+  </PageData>
+</main>

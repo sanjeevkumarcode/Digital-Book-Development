@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<main>
+  <PageData>
+	<MainHeading><![CDATA[]]></MainHeading>
+    <SubHeading><![CDATA[]]></SubHeading>
+         <PageText><pText><![CDATA[service providers. Services are actually provided through this platform to M2M devices. This platform provides app management for smart device apps. App management manages app registration by developers and provides a mapping relationship between apps and devices. Mapping function provides an app list for appropriate devices.]]></pText></PageText>
+          
+          <PageText><pText><![CDATA[There are two types of M2M network a)non-IP based M2M network b)IP based M2M network. Figure 5.15 and Figure 5.16 shows a non-IP based M2M network and IP based M2M network respectively.]]>
+       	</pText></PageText>
+
+       	<PageText>
+      <pText><![CDATA[<div class="BigImgClass"><img src="en/images/img15.png"></div>]]></pText>
+    </PageText>
+
+    <PageText><pText><![CDATA[The application layer seamlessly integrates both the networks.]]>
+       	</pText></PageText>
+
+       	  	<PageText>
+      <pText><![CDATA[<div class="BigImgClass"><img src="en/images/img16.png"></div>]]></pText>
+    </PageText>
+
+</PageData>
+</main>

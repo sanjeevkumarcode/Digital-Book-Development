@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<main>
+  <PageData>
+	<MainHeading><![CDATA[]]></MainHeading>
+    <SubHeading><![CDATA[]]></SubHeading>
+       <PageText>
+      <pText><![CDATA[control. This will increase the delay between ground control and higher layers. This topology is not suitable for time-critical relaying tasks. For communication between FANETs and VANETs there are several links like Air-to-Air (A2A), Air-to-Vehicle (A2V) and Vehicle-to- Vehicle (V2V) links. Figure 5.9 shows various links in FANET and VANET. These links can be for surveillance, guidance, exploration or data transfer]]></pText></PageText>
+      
+      <PageText>
+      <pText><![CDATA[<div class="BigImgClass"><img src="en/images/img9.png"></div>]]></pText>
+    </PageText>
+
+      <PageText>
+      <pText><![CDATA[In FANET-VANET communication, a mesh network can be formed in aerial plane. There can be several links between UAVs and ground network. Figure 5.10 shows different communications in FANET and VANET. Various communications like request, scheduling, control, sensing, navigation, data relay etc. can take place between FANETs and VANETs.]]>
+      </pText>
+  </PageText>
+
+          <PageText>
+      <pText><![CDATA[<div class="BigImgClass"><img src="TCSiON/img/img10.png"></div>]]></pText>
+    </PageText>
+  </PageData>
+</main>
